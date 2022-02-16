@@ -1,0 +1,2 @@
+rootProject.name = "My tip"
+include ':app'
